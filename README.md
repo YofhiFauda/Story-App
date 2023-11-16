@@ -1,4 +1,7 @@
-## Submission Awal : Story App
+# Submission Awal : Story App
+
+## Submission Dicoding Belajar Intermediate Aplikasi Android
+Submission Untuk Kelas Dicoding Belajar Intermediate Aplikasi Android (BIAA) menggunakan Kotlin.
 
 ### Submision Awal Checklist
 
