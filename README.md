@@ -1,15 +1,18 @@
-# Submission Awal : Story App
-
 ## Submission Dicoding Belajar Intermediate Aplikasi Android
 Submission Untuk Kelas Dicoding Belajar Intermediate Aplikasi Android (BIAA) menggunakan Kotlin.
 
 ### Submision Awal Checklist
 
-- [x] Menampilkan list data user dari API menggunakan RecyclerView
-- [x] Pencarian user menggunakan data dari API
-- [x] Pengguna dapat melihat halaman detail dari hasil daftar pencarian
-- [x] Terdapat informasi detail dari seorang user
-- [x] Terdapat indikator loading saat aplikasi memuat data di semua bagian yang mengambil data dari API
+- [x] Menampilkan halaman login untuk masuk ke dalam aplikasi.
+- [x] Membuat halaman register untuk mendaftarkan diri dalam aplikasi.
+- [x] Membuat Custom View berupa EditText pada halaman login atau register.
+- [x] Menyimpan data sesi dan token di preferences. Data sesi digunakan untuk mengatur alur aplikasi.
+- [x] Terdapat fitur untuk logout pada halaman utama.
+- [x] Menampilkan daftar cerita dari API
+- [x] Tampilan detail ketika salah satu item cerita ditekan
+- [x] Membuat halaman untuk menambah cerita baru yang dapat diakses dari halaman daftar cerita.
+- [x] Membuat animasi pada aplikasi dengan menggunakan salah satu jenis animasi
+- [x] Terdapat pengaturan untuk localization (multi bahasa).
 
 ### LICENSE
 ```plaintext
